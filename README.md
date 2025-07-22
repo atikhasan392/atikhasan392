@@ -15,7 +15,7 @@
   <a href="mailto:me@atikhasan.com">
     <img src="https://img.shields.io/badge/Email-me@atikhasan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/atikhasan">
+  <a href="https://www.linkedin.com/in/atik-hasan-003a0720b/">
     <img src="https://img.shields.io/badge/LinkedIn-atikhasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
