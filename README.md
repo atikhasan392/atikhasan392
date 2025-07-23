@@ -32,7 +32,7 @@ Fiverr     : atikhasan392
 
 ### 🎯 My Core Technologies
 
-- **🔥 Backend Framework:** Laravel 11+ | PHP 8.3+
+- **🔥 Backend Framework:** Laravel 12+ | PHP 8.4+
 - **⚡ Frontend Stack:** Livewire 3 | Alpine.js | TailwindCSS 4
 - **💾 Database & Cache:** MySQL | Redis | Queue Management
 - **🌍 Advanced Features:** GeoIP + Timezone Logic | Business Automation
@@ -41,13 +41,12 @@ Fiverr     : atikhasan392
 <br clear="both"/>
 
 ---
-
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,tailwindcss,alpinejs,javascript,html,css,git,github,vscode,postman,linux,nginx,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,redis,tailwindcss,bootstrap,alpinejs,vite,react,javascript,typescript,html,css,git,github,gitlab,vscode,postman,arduino,linux,nginx,aws,docker&perline=12" />
 </p>
 
 <p align="center">
