@@ -59,13 +59,31 @@ Focus      : Scalable, high-performance backend systems
 
 <div align="center">
 
-| 🧠 **Personalized Systems** | 🎯 **Smart Automation** | 🔐 **Secure API Design** |
-|-----------------------------|--------------------------|---------------------------|
-| User behavior-based recommendation engines | Time & cart-sensitive offers using Laravel Schedulers | Sanctum authentication, RBAC, route policies |
-| 📊 **Analytics & Tracking** | 🕒 **Geo & Time Control** | ⚙️ **Performance Optimization** |
-| User interaction logs, analytics dashboards | Location/timezone-based product visibility | Queued jobs, caching, database optimization |
+<table>
+  <tr>
+    <td align="center"><strong>🧠<br/>Personalized Systems</strong></td>
+    <td align="center"><strong>🎯<br/>Smart Automation</strong></td>
+    <td align="center"><strong>🔐<br/>Secure API Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">User behavior-based<br/>recommendation engines</td>
+    <td align="center">Time & cart-sensitive offers<br/>using Laravel Schedulers</td>
+    <td align="center">Sanctum auth, RBAC,<br/>route policies</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📊<br/>Analytics & Tracking</strong></td>
+    <td align="center"><strong>🕒<br/>Geo & Time Control</strong></td>
+    <td align="center"><strong>⚙️<br/>Performance Optimization</strong></td>
+  </tr>
+  <tr>
+    <td align="center">User interaction logs,<br/>analytics dashboards</td>
+    <td align="center">Location/timezone-based<br/>product visibility</td>
+    <td align="center">Queued jobs, caching,<br/>database optimization</td>
+  </tr>
+</table>
 
 </div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
