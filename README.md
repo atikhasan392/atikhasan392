@@ -24,7 +24,7 @@
 ```txt
 Name       : ATik HaSan
 Role       : Web Developer (Laravel Backend Focused)
-Experience : 6+ years with Laravel, Livewire & Tailwind
+Experience : 6+ years with PHP, Laravel, Livewire & Tailwind
 Location   : Bangladesh (Asia/Dhaka - GMT+6)
 Focus      : Scalable, high-performance backend systems
 ```
@@ -59,7 +59,7 @@ Focus      : Scalable, high-performance backend systems
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td align="center"><strong>🧠<br/>Personalized Systems</strong></td>
     <td align="center"><strong>🎯<br/>Smart Automation</strong></td>
