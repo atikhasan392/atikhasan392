@@ -27,6 +27,7 @@ Role       : Web Developer (Laravel Backend Focused)
 Experience : 6+ years with PHP, Laravel, Livewire & Tailwind
 Location   : Bangladesh (Asia/Dhaka - GMT+6)
 Focus      : Scalable, high-performance backend systems
+Fiverr     : atikhasan392
 ```
 
 ### 🎯 My Core Technologies
@@ -96,12 +97,12 @@ Focus      : Scalable, high-performance backend systems
 <div align="center">
 
 | 🔮 **Suggestion Engine** | 🎯 **Dynamic Offer System** | 📊 **Analytics Dashboard** |
-|------------------------|---------------------------|--------------------------|
+|:------------------------|:---------------------------|:--------------------------|
 | Laravel, MySQL, Sessions | Laravel Scheduler, Redis | Livewire, JavaScript |
 | *Product recommendations based on user behavior* | *Custom discount engine with targeting* | *Real-time user interaction monitoring* |
 
 | 🌍 **GeoTime Product Logic** | 🧱 **Laravel Admin Panel** | 🚀 **API Gateway** |
-|---------------------------|--------------------------|------------------|
+|:---------------------------|:--------------------------|:------------------|
 | Middleware, GeoIP, Carbon | Livewire, TailwindCSS | Sanctum, Rate Limiting |
 | *Location & time-based visibility control* | *Component-based admin interface* | *Secure RESTful API endpoints* |
 
@@ -118,7 +119,7 @@ Focus      : Scalable, high-performance backend systems
 <div align="center">
 
 | ✅ **Modular Architecture** | ✅ **Performance Optimization** |
-|---------------------------|-------------------------------|
+|:---------------------------|:-------------------------------|
 | Clean separation with service, repository patterns | Queued jobs, cron scheduling, multi-layer caching |
 | **✅ Secure APIs** | **✅ Production Ready** |
 | RESTful APIs with token & role-based access | Deployment-ready with Nginx, Docker, CI/CD |
@@ -143,16 +144,25 @@ Focus      : Scalable, high-performance backend systems
 
 <p align="center">
   <a href="https://atikhasan.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-orange?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-orange?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:atikhasan.js392@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-atikhasan.js392@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="mailto:me@atikhasan.com">
-    <img src="https://img.shields.io/badge/📧_Email-me@atikhasan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-me@atikhasan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/atikhasan392" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/me.atikhasan">
+    <img src="https://img.shields.io/badge/facebook-Add_friend-EA4335?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/atikhasan" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/atikhasan392" target="_blank">
-    <img src="https://img.shields.io/badge/🐱_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
