@@ -59,28 +59,11 @@ Focus      : Scalable, high-performance backend systems
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center"><strong>🧠<br/>Personalized Systems</strong></td>
-    <td align="center"><strong>🎯<br/>Smart Automation</strong></td>
-    <td align="center"><strong>🔐<br/>Secure API Design</strong></td>
-  </tr>
-  <tr>
-    <td align="center">User behavior-based<br/>recommendation engines</td>
-    <td align="center">Time & cart-sensitive offers<br/>using Laravel Schedulers</td>
-    <td align="center">Sanctum auth, RBAC,<br/>route policies</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>📊<br/>Analytics & Tracking</strong></td>
-    <td align="center"><strong>🕒<br/>Geo & Time Control</strong></td>
-    <td align="center"><strong>⚙️<br/>Performance Optimization</strong></td>
-  </tr>
-  <tr>
-    <td align="center">User interaction logs,<br/>analytics dashboards</td>
-    <td align="center">Location/timezone-based<br/>product visibility</td>
-    <td align="center">Queued jobs, caching,<br/>database optimization</td>
-  </tr>
-</table>
+| 🧠 **Personalized Systems** | 🎯 **Smart Automation** | 🔐 **Secure API Design** |
+|-----------------------------|--------------------------|---------------------------|
+| User behavior-based recommendation engines | Time & cart-sensitive offers using Laravel Schedulers | Sanctum authentication, RBAC, route policies |
+| 📊 **Analytics & Tracking** | 🕒 **Geo & Time Control** | ⚙️ **Performance Optimization** |
+| User interaction logs, analytics dashboards | Location/timezone-based product visibility | Queued jobs, caching, database optimization |
 
 </div>
 
@@ -113,12 +96,12 @@ Focus      : Scalable, high-performance backend systems
 <div align="center">
 
 | 🔮 **Suggestion Engine** | 🎯 **Dynamic Offer System** | 📊 **Analytics Dashboard** |
-|:------------------------:|:---------------------------:|:--------------------------:|
+|------------------------|---------------------------|--------------------------|
 | Laravel, MySQL, Sessions | Laravel Scheduler, Redis | Livewire, JavaScript |
 | *Product recommendations based on user behavior* | *Custom discount engine with targeting* | *Real-time user interaction monitoring* |
 
 | 🌍 **GeoTime Product Logic** | 🧱 **Laravel Admin Panel** | 🚀 **API Gateway** |
-|:---------------------------:|:--------------------------:|:------------------:|
+|---------------------------|--------------------------|------------------|
 | Middleware, GeoIP, Carbon | Livewire, TailwindCSS | Sanctum, Rate Limiting |
 | *Location & time-based visibility control* | *Component-based admin interface* | *Secure RESTful API endpoints* |
 
@@ -135,7 +118,7 @@ Focus      : Scalable, high-performance backend systems
 <div align="center">
 
 | ✅ **Modular Architecture** | ✅ **Performance Optimization** |
-|:---------------------------:|:-------------------------------:|
+|---------------------------|-------------------------------|
 | Clean separation with service, repository patterns | Queued jobs, cron scheduling, multi-layer caching |
 | **✅ Secure APIs** | **✅ Production Ready** |
 | RESTful APIs with token & role-based access | Deployment-ready with Nginx, Docker, CI/CD |
