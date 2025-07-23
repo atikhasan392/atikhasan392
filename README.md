@@ -88,7 +88,7 @@ Fiverr     : atikhasan392
 <td align="center">
   <img src="https://img.shields.io/badge/Industry_Recognition-Top_1%25-gold?style=for-the-badge&logo=medal&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Client_Rating-⭐⭐⭐⭐⭐-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Client_Rating-⭐⭐⭐⭐⭐-white?style=for-the-badge&logo=medal&logoColor=white" />
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/Team_Lead-5%2B_Developers-8B5A2B?style=for-the-badge&logo=users&logoColor=white" />
