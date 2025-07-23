@@ -1,120 +1,178 @@
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atikhasan392/atikhasan392/main/assets/banner-hi-tech.gif" width="100%" alt="Hi, I'm Atik Hasan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I%27m%20ATik%20HaSan&fontSize=50&fontColor=fff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Atik Hasan</h1>
-<h3 align="center">Backend-Focused Laravel Developer | Problem Solver | Business-Oriented Engineer</h3>
+<h3 align="center">🚀 Backend-Focused Laravel Developer | Problem Solver | Business-Oriented Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Laravel+Architect+%F0%9F%92%A7;Advanced+Backend+Developer+%F0%9F%94%A5;Livewire+%7C+Redis+%7C+Tailwind+Specialist+%F0%9F%9A%80;I+turn+ideas+into+scalable+systems+%E2%9C%94%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Laravel+Architect+💧;Advanced+Backend+Developer+🔥;Livewire+%7C+Redis+%7C+Tailwind+Specialist+🚀;I+turn+ideas+into+scalable+systems+✔️" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Laravel%20Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Focus" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Specialization-API%20Development-blue?style=for-the-badge&logo=postman&logoColor=white" alt="API Development" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bangladesh%20🇧🇩-green?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available" />
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B6-orange?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone" />
+</p>
+
+```txt
+Name       : ATik HaSan
+Role       : Web Developer (Laravel Backend Focused)
+Experience : 6+ years with Laravel, Livewire & Tailwind
+Location   : Bangladesh (Asia/Dhaka - GMT+6)
+Focus      : Scalable, high-performance backend systems
+```
+
+### 🎯 My Core Technologies
+
+- **🔥 Backend Framework:** Laravel 11+ | PHP 8.3+
+- **⚡ Frontend Stack:** Livewire 3 | Alpine.js | TailwindCSS 4
+- **💾 Database & Cache:** MySQL | Redis | Queue Management
+- **🌍 Advanced Features:** GeoIP + Timezone Logic | Business Automation
+- **🏗️ Architecture:** Modular, Maintainable & Secure Design
+
+<br clear="both"/>
 
 ---
 
-## 🧠 About Me
+---
 
-```txt
-Name       : Atik Hasan
-Role       : Web Developer (Laravel Backend Focused)
-Experience : 3+ years with Laravel, Livewire & Tailwind
-Location   : Bangladesh (GMT+6)
-```
+## 🛠️ Technologies & Tools
 
-🎯 I build scalable, high-performance systems using:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,tailwindcss,alpinejs,javascript,html,css,git,github,vscode,postman,linux,nginx,docker&perline=8" />
+</p>
 
-- **Laravel 12 + Livewire 3 + Alpine.js + TailwindCSS 4**
-- **MySQL, Redis, Sanctum API, Queues**
-- **GeoIP + Timezone Logic + Business Logic Automation**
-- **Modular, Maintainable & Secure Architecture**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ---
 
 ## 🔍 Core Expertise
 
-| Area | Description |
-|------|-------------|
-| 🧠 **Personalized Suggestions** | User behavior-based product recommendation system |
-| 🎯 **Smart Offer Engine** | Time- & cart-sensitive offers using Laravel Schedulers |
-| 📊 **Analytics & Tracking** | User visit logs, comment analysis, interaction heatmap |
-| 🕒 **Geo & Time-based Control** | Location/time controlled product visibility |
-| 🔐 **Secure API Design** | Sanctum auth, RBAC, route policies & middleware |
+<div align="center">
 
----
+| 🧠 **Personalized Systems** | 🎯 **Smart Automation** | 🔐 **Secure API Design** |
+|:---------------------------:|:------------------------:|:-------------------------:|
+| User behavior-based recommendation engines | Time & cart-sensitive offers using Laravel Schedulers | Sanctum authentication, RBAC, route policies |
+| **📊 Analytics & Tracking** | **🕒 Geo & Time Control** | **⚙️ Performance Optimization** |
+| User interaction logs, analytics dashboards | Location/timezone-based product visibility | Queued jobs, caching, database optimization |
 
-## 🛠️ Tech Toolbox
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,tailwindcss,alpinejs,astro,javascript,html,css,git,github,vscode,postman,linux,notion,npm,ubuntu,nginx,docker" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
 ---
 
-## 📈 GitHub Contributions Overview
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atikhasan392&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=atikhasan392&theme=radical&hide_border=true" alt="Streak Stats" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikhasan392&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atikhasan392&theme=dracula&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atikhasan392&theme=monokai&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 Tech Radar (Skill Graph)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikhasan392&layout=donut&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atikhasan392&theme=monokai&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🧩 Featured Projects
 
-| Project | Tools | Description |
-|--------|--------|-------------|
-| 🔮 **Suggestion Engine** | Laravel, MySQL, Session | Personalizes product display based on user behavior |
-| 🎯 **Dynamic Offer System** | Laravel Scheduler, Redis | Custom discount engine with expiry & targeting logic |
-| 📊 **User Analytics** | Livewire, JS | Custom analytics dashboard to monitor user interactions |
-| 🌍 **GeoTime Product Logic** | Middleware, GeoIP, Carbon | Controls visibility based on time & location |
-| 🧱 **Laravel Admin Panel** | Livewire + Tailwind | Component-based admin UI with permission layers |
+<div align="center">
+
+| 🔮 **Suggestion Engine** | 🎯 **Dynamic Offer System** | 📊 **Analytics Dashboard** |
+|:------------------------:|:---------------------------:|:--------------------------:|
+| Laravel, MySQL, Sessions | Laravel Scheduler, Redis | Livewire, JavaScript |
+| *Product recommendations based on user behavior* | *Custom discount engine with targeting* | *Real-time user interaction monitoring* |
+
+| 🌍 **GeoTime Product Logic** | 🧱 **Laravel Admin Panel** | 🚀 **API Gateway** |
+|:---------------------------:|:--------------------------:|:------------------:|
+| Middleware, GeoIP, Carbon | Livewire, TailwindCSS | Sanctum, Rate Limiting |
+| *Location & time-based visibility control* | *Component-based admin interface* | *Secure RESTful API endpoints* |
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
 
 ---
 
 ## 💼 Business-Focused Solutions
 
-- 🧩 Modular architecture with clean separation (service, repo, request classes)
-- 🔄 Queued jobs, cron scheduling, and multi-layer caching
-- 🔐 Fully RESTful APIs with token & role-based access control
-- 🚀 Deployment ready with `nginx`, `Docker`, `.env`, and `CI/CD` support
+<div align="center">
+
+| ✅ **Modular Architecture** | ✅ **Performance Optimization** |
+|:---------------------------:|:-------------------------------:|
+| Clean separation with service, repository patterns | Queued jobs, cron scheduling, multi-layer caching |
+| **✅ Secure APIs** | **✅ Production Ready** |
+| RESTful APIs with token & role-based access | Deployment-ready with Nginx, Docker, CI/CD |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
+
+### 🧪 Currently Exploring
+
+- 🧠 **AI-Powered Recommendations** with Laravel + OpenAI
+- ⚙️ **Microservice Architecture** with Laravel Octane
+- 📦 **SaaS Product Backend** Boilerplate Development
+- 🔄 **Event-Driven Architecture** with Laravel Events
+- 📱 **Mobile API Development** for Flutter/React Native
+
+<br clear="both"/>
 
 ---
 
-## 🧪 Currently Exploring
-
-- 🧠 AI-Powered Recommendation via Laravel + OpenAI
-- ⚙️ Microservice architecture with Laravel Octane
-- 📦 SaaS product backend boilerplate
-
----
-
-## 📫 Contact & Connect
+## 📫 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://atikhasan.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox"/></a>
-  <a href="mailto:me@atikhasan.com"><img src="https://img.shields.io/badge/Email-me@atikhasan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/atikhasan"><img src="https://img.shields.io/badge/LinkedIn-atikhasan-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/atikhasan392"><img src="https://img.shields.io/badge/GitHub-atikhasan-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://atikhasan.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-orange?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="mailto:me@atikhasan.com">
+    <img src="https://img.shields.io/badge/📧_Email-me@atikhasan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/atikhasan" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/atikhasan392" target="_blank">
+    <img src="https://img.shields.io/badge/🐱_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </p>
 
 ---
 
-## 🧠 My Dev Philosophy
-
-> 💡 **"Build for scale. Code for clarity. Think like a product owner."**
-
----
+## 💡 Development Philosophy
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Build%20for%20scale.%20Code%20for%20clarity.%20Think%20like%20a%20product%20owner." alt="Dev Philosophy"/>
+</p>
+
+<div align="center">
+
+**🎯 Problem-Solving Mindset** | **🏗️ Scalable Architecture** | **📈 Business Value Focus**
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
