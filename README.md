@@ -60,7 +60,7 @@ Focus      : Scalable, high-performance backend systems
 <div align="center">
 
 | 🧠 **Personalized Systems** | 🎯 **Smart Automation** | 🔐 **Secure API Design** |
-|:---------------------------:|:------------------------:|:-------------------------:|
+|:----------------------------|--------------------------|---------------------------|
 | User behavior-based recommendation engines | Time & cart-sensitive offers using Laravel Schedulers | Sanctum authentication, RBAC, route policies |
 | **📊 Analytics & Tracking** | **🕒 Geo & Time Control** | **⚙️ Performance Optimization** |
 | User interaction logs, analytics dashboards | Location/timezone-based product visibility | Queued jobs, caching, database optimization |
