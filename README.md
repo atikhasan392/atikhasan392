@@ -46,7 +46,7 @@ Fiverr     : atikhasan392
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,redis,tailwindcss,bootstrap,alpinejs,vite,react,javascript,typescript,html,css,git,github,gitlab,vscode,postman,arduino,linux,nginx,aws,docker&perline=12" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,redis,tailwindcss,bootstrap,alpinejs,vite,react,javascript,typescript,html,css,git,github,gitlab,vscode,postman,linux,ubuntu,nginx,aws,docker&perline=12" />
 </p>
 
 <p align="center">
